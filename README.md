@@ -1,5 +1,4 @@
 # AirBnB-Dataset-Data-Analysis
-In this 
 ## KPI's for the Analysis 
 ### Objective 
 Analyse the AirBNB listings and derive actionable insights that can help improve pricing strategies, host performance, customer satisfaction, and overall marketplace efficiency.
