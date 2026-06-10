@@ -130,3 +130,18 @@ Can listing prices be estimated using listing characteristics?
 - R² Score
 ### Expected Outcome
 Develop a pricing recommendation system capable of estimating listing prices from listing attributes.
+
+## Conclusion
+
+This project explored over 100,000 Airbnb listings through a structured data analysis workflow involving data cleaning, exploratory data analysis, KPI-driven business analysis, and machine learning.
+
+The analysis revealed that listing prices were influenced more by factors such as location and room type than by host characteristics. While host verification status showed little impact on overall performance, hosts managing a small portfolio of properties consistently generated higher guest engagement than both single-listing hosts and large professional property management companies.
+
+Demand analysis highlighted that demand patterns were not evenly distributed across the market. Private rooms generally exhibited stronger demand than entire homes, while Brooklyn and Queens demonstrated higher demand efficiency than Manhattan when review activity and availability were considered together. Additionally, demand did not decrease linearly with price, suggesting that both budget-oriented and premium listings attract strong customer interest.
+
+Customer satisfaction analysis showed no strong relationship between ratings and factors such as price, host verification status, availability, or instant booking options. This suggests that guest satisfaction is likely influenced by qualitative factors not captured within the dataset, such as communication quality, cleanliness, location convenience, and overall guest experience.
+
+A machine learning model was also developed to predict listing ratings based on available listing characteristics. The results reinforced the findings from the exploratory analysis, indicating that customer ratings are difficult to predict using the available structured features alone.
+
+Overall, this project demonstrates the importance of combining data cleaning, business-focused KPI design, exploratory analysis, and predictive modeling to transform raw data into actionable insights.
+
